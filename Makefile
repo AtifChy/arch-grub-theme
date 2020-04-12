@@ -1,6 +1,6 @@
-Version=18.0
+Version=20.0
 
-PREFIX = /usr/local
+PREFIX = /usr
 
 CFG = $(wildcard cfg/*.cfg)
 
